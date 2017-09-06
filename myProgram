@@ -1,0 +1,7 @@
+#!/bin/bash
+
+roscore
+
+source /home/odroid/catkin_ws/devel/setup.bash
+
+roslaunch agitr example.launch

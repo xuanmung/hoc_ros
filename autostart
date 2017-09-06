@@ -1,0 +1,7 @@
+odroid@odroid:~$ cat .config/lxsession/Lubuntu/autostart
+
+# Start example.launch file
+
+@lxterminal --command "/home/odroid/Desktop/New/myProgram"
+
+odroid@odroid:~$
